@@ -1,0 +1,8 @@
+C:\_Q1 2016\ssi\Shop Floor Data Collection 2017\Shop Floor Data Collection 2017\bin\Debug\Shop Floor Data Collection 2017.exe
+C:\_Q1 2016\ssi\Shop Floor Data Collection 2017\Shop Floor Data Collection 2017\bin\Debug\Shop Floor Data Collection 2017.pdb
+C:\_Q1 2016\ssi\Shop Floor Data Collection 2017\Shop Floor Data Collection 2017\obj\Debug\Shop_Floor_Data_Collection_2017.Properties.Resources.resources
+C:\_Q1 2016\ssi\Shop Floor Data Collection 2017\Shop Floor Data Collection 2017\obj\Debug\Shop_Floor_Data_Collection_2017.SFDCMain.resources
+C:\_Q1 2016\ssi\Shop Floor Data Collection 2017\Shop Floor Data Collection 2017\obj\Debug\Shop Floor Data Collection 2017.csproj.GenerateResource.Cache
+C:\_Q1 2016\ssi\Shop Floor Data Collection 2017\Shop Floor Data Collection 2017\obj\Debug\Shop Floor Data Collection 2017.exe
+C:\_Q1 2016\ssi\Shop Floor Data Collection 2017\Shop Floor Data Collection 2017\obj\Debug\Shop Floor Data Collection 2017.pdb
+C:\_Q1 2016\ssi\Shop Floor Data Collection 2017\Shop Floor Data Collection 2017\obj\Debug\Shop Floor Data Collection 2017.csprojResolveAssemblyReference.cache
